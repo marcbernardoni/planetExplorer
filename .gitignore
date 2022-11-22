@@ -110,3 +110,5 @@ dist
 
 ## Output folders
 build
+! ./build/index.html
+! ./build/styles.css
