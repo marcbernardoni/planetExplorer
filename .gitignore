@@ -109,6 +109,6 @@ dist
 *.swo
 
 ## Output folders
+!build/*.html
+!build/*.css
 build
-! ./build/index.html
-! ./build/styles.css
